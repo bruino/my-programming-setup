@@ -11,6 +11,7 @@
   - [Graphics/Design](#graphicsdesign)
   - [Virtual Machine](#virtual-machine)
   - [List/Task Manager](#listtask-manager)
+  - [Business Intelligence](#business-intelligence)
 
 #
 
@@ -47,3 +48,6 @@
 
 ## List/Task Manager
 - [Trello](https://trello.com)
+
+## Business Intelligence
+- [Metabase](https://metabase.com/)
