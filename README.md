@@ -5,7 +5,7 @@
   - [Frameworks](#frameworks)
   - [Code Editor/IDE](#code-editoride)
   - [SO](#so)
-  - [Shell](#shell)Ñ
+  - [Shell](#shell)
   - [Database Tool](#database-tool)
   - [Wireframe](#wireframe)
   - [Graphics/Design](#graphicsdesign)
